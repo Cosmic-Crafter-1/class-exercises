@@ -1,0 +1,76 @@
+
+* {
+	background-color: black;
+	color: white;
+	font-family: 'Poppins';
+	line-height: 3;
+	text-shadow: #FC0 1px 0 10px;
+}
+
+#back-to-title {
+	color:aqua;
+	text-shadow: #FC0 1px 0 10px;
+}
+
+img {
+	border: 5px solid blueviolet;
+	border-radius: 25px;	
+}
+
+a {
+	font-size: 18px;
+}
+
+h3,
+address {
+	text-align: start;
+}
+
+.gummy-bear {
+	width: 700px;
+	height: auto;
+	margin-left: 565px;
+}
+
+.kingdom-pic {
+	height: auto;
+	width: 700px;
+	margin-left: 565px;
+}
+
+.pancake {
+	width: 700px;
+	height: auto;
+	margin-left: 565px;
+}
+
+.para-1{
+	font-size: 18px;
+}
+
+.para-2 {
+	color: white;
+	font-size: 18px;
+}
+
+.para-3 {
+	font-size: 18px;
+	color: white;
+}
+
+.gummy-bear,
+.sock-saga,
+.pancake {
+	color: darkorange;
+	text-shadow: #FC0 1px 0 10px;
+}
+
+button {
+	background-color: black;
+	border: 2px solid lightgray;
+	padding: 10px;
+	margin: 20px;
+	font-size: 15px;
+	color: aqua;
+}
+
